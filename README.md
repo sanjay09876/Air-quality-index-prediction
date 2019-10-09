@@ -1,1 +1,1 @@
-# air-quality-index-prediction
+visualizing and prediciting the air quality of delhi by using visualization plots and seaborn and prediciting the index values using machine learning    ..Since git is not supporting ipynb files use https://nbviewer.jupyter.org this link and copy my file url to run the file!
